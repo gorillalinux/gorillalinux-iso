@@ -1,4 +1,4 @@
-# gorillalinux
+<img src="./assets/images/logo.png" alt="# gorillalinux" width="250" height="250"> 
 
 Hello friends,  
 this is the beginning of a new Archlinux based distribution called `gorillalinux`.  
